@@ -81,9 +81,17 @@ new Swiper('#projects .swiper-container', {
           };
         
           parallaxSlider = new Swiper('.parallax-slider', parallaxSliderOptions);
+          // Only rebuild when the width changes: on mobile the address bar
+          // fires height-only resizes that would reset the slider.
+          var lastSliderWidth = window.innerWidth, sliderResizeTimer;
           $(window).on('resize', function() {
-            parallaxSlider.destroy();
-            parallaxSlider = new Swiper('.parallax-slider', parallaxSliderOptions);
+            clearTimeout(sliderResizeTimer);
+            sliderResizeTimer = setTimeout(function() {
+              if (window.innerWidth === lastSliderWidth) return;
+              lastSliderWidth = window.innerWidth;
+              parallaxSlider.destroy();
+              parallaxSlider = new Swiper('.parallax-slider', parallaxSliderOptions);
+            }, 200);
           });
            $('.home-link').on('click',function(){
             setTimeout(function(){
@@ -256,7 +264,7 @@ new Swiper('#projects .swiper-container', {
       gsap.to('#home',.5,{scale:.9});
       gsap.to('#home',0,{width:'100%',height:'100vh',overflow:'hidden'});
       gsap.to('#home',0,{display:'none',delay:.5});
-      gsap.to('.marine-project',0,{display:'block',delay:.7})
+      gsap.to('.marine-project',0,{display:'flex',delay:.7})
       gsap.to('.marine-project',.5,{scale:1,delay:1.1})
       gsap.to('.project-name',.5,{opacity:0,delay:2.5})
       gsap.to('#breaker',{display:'block'})
@@ -266,7 +274,7 @@ new Swiper('#projects .swiper-container', {
       gsap.to('#home',.5,{scale:.9});
       gsap.to('#home',0,{width:'100%',height:'100vh',overflow:'hidden'});
       gsap.to('#home',0,{display:'none',delay:.7});
-      gsap.to('.forest-project',0,{display:'block',delay:.7})
+      gsap.to('.forest-project',0,{display:'flex',delay:.7})
       gsap.to('.forest-project',.5,{scale:1,delay:1.1})
       gsap.to('.project-name',.5,{opacity:0,delay:2.5})
       gsap.to('#breaker',{display:'block'})
@@ -276,7 +284,7 @@ new Swiper('#projects .swiper-container', {
       gsap.to('#home',.5,{scale:.9});
       gsap.to('#home',0,{width:'100%',height:'100vh',overflow:'hidden'});
       gsap.to('#home',0,{display:'none',delay:.7});
-      gsap.to('.wildlife-project',0,{display:'block',delay:.7})
+      gsap.to('.wildlife-project',0,{display:'flex',delay:.7})
       gsap.to('.wildlife-project',.5,{scale:1,delay:1.1})
       gsap.to('.project-name',.5,{opacity:0,delay:2.5})
       gsap.to('#breaker',{display:'block'})
@@ -286,7 +294,7 @@ new Swiper('#projects .swiper-container', {
       gsap.to('#home',.5,{scale:.9});
       gsap.to('#home',0,{width:'100%',height:'100vh',overflow:'hidden'});
       gsap.to('#home',0,{display:'none',delay:.7});
-      gsap.to('.city-project',0,{display:'block',delay:.7})
+      gsap.to('.city-project',0,{display:'flex',delay:.7})
       gsap.to('.city-project',.5,{scale:1,delay:1.1})
       gsap.to('.project-name',.5,{opacity:0,delay:2.5})
       gsap.to('#breaker',{display:'block'})

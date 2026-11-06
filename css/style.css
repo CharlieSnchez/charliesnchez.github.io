@@ -484,168 +484,25 @@ mix-blend-mode: luminosity;
 
 
 
-.about-text-header.tentacion{
-  display: block;
-  position: fixed !important;
-  top: 30vh !important;
-  left: 5vw !important;
-}
-
-.about-text-button.tentacion{
-  position:fixed;
-  width: 100% !important;
-  left: 0;
-  text-align: center;
-  bottom: 15vh !important;
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.tentacion-1{
-  position: fixed !important;
-  left: 5vw !important;
-  width: 33vw;
-  top: 40vh !important;
-
-  font-size: 24px;
-  opacity: .9;
-  font-weight: 400;
-}
-.about-text-paragraph.tentacion-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
-
-
-  bottom: 26vh !important;
-  margin-right: 10vw !important;
-}
 
 
 
 
 
-.about-text-header.oasis{
-  display: block;
-  position: fixed !important;
-  top: 30vh !important;
-  left: 5vw !important;
-  width: 490px !important;
-}
-
-.about-text-button.oasis{
-  position:fixed;
-  width: 100% !important;
-  left: 0;
-  text-align: center;
-  bottom: 15vh !important;
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.oasis-1{
-  position: fixed !important;
-  left: 5vw !important;
-  top: 50vh !important;
-
-  font-size: 24px;
-  width: 400px !important;
-
-}
-.about-text-paragraph.oasis-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
-
-  bottom: 45vh !important;
-  margin-right: 10vw !important;
-}
 
 
 
-.about-text-header.a-medias-verdades{
-  display: block;
-  width: 55% !important;
-  top: 20vh !important;
-  left: 5vw !important;
-  right: 5vw !important;
-}
-
-.about-text-button.a-medias-verdades{
-  position:fixed;
-  width: 100% !important;
-  left: 0;
-  text-align: center;
-  bottom: 15vh !important;
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.a-medias-verdades-1{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
-
-  bottom: 64vh !important;
-  margin-right: 10vw !important;
-  text-align: right;
-
-}
-.about-text-paragraph.a-medias-verdades-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
-
-  bottom: 40vh !important;
-  margin-right: 10vw !important;
-  text-align: right;
-
-}
-.about-text-paragraph.a-medias-verdades-3{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
-
-  bottom: 30vh !important;
-  margin-right: 10vw !important;
-  text-align: right;
-
-}
 
 
 
-.about-text-header.doscientos{
-  display: block;
-  position: fixed !important;
-  top: 17vh !important;
-  left: 0 !important;
-  width: 100% !important;
-  text-align: center;
-}
 
-.about-text-button.doscientos{
-  position:fixed;
-  width: 100% !important;
-  left: 0;
-  text-align: center;
-  bottom: 15vh !important;
-  pointer-events: all !important;
-}
 
-.about-text-paragraph.doscientos-1{
-  position: fixed !important;
-  left: 5vw !important;
-  top: 40vh !important;
 
-  font-size: 24px;
-  width: 400px !important;
 
-}
-.about-text-paragraph.doscientos-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
 
-  bottom: 35vh !important;
-  margin-right: 10vw !important;
-}
+
+
+
 
 
 .about-text-header.about-1{
@@ -1179,165 +1036,23 @@ cursor: none !important;
 
 
 
-.about-text-header.tentacion{
-  display: block;
-  position: fixed !important;
-  top: 11vh !important;
-  left: 5vw !important;
-  margin-right: 10vw;
-}
-
-.about-text-button.tentacion{
-  position:fixed;
-  width: 100% !important;
-  left: 0;
-  text-align: center;
-  bottom: 15vh !important;
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.tentacion-1{
-  position: fixed !important;
-  left: 5vw !important;
-  width: 33vw;
-  top: 40vh !important;
-
-  font-size: 24px;
-  opacity: .9;
-  font-weight: 400;
-}
-.about-text-paragraph.tentacion-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
-
-
-  bottom: 32vh !important;
-  margin-right: 10vw !important;
-}
-
-
-.about-text-header.oasis{
-  display: block;
-  position: fixed !important;
-  top: 11vh !important;
-  left: 5vw !important;
-  margin-right: 10vw;
-  width: 90% !important;
-}
-
-.about-text-button.oasis{
-  position:fixed;
-  width: 100% !important;
-  left: 0;
-  text-align: center;
-  bottom: 15vh !important;
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.oasis-1{
-  position: fixed !important;
-  left: 5vw !important;
-  width: 33vw;
-  top: 40vh !important;
-
-  font-size: 24px;
-}
-.about-text-paragraph.oasis-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
-
-
-  bottom: 32vh !important;
-  margin-right: 10vw !important;
-}
 
 
 
 
-.about-text-header.a-medias-verdades{
-  display: block;
-  position: fixed !important;
-  top: 9vh !important;
-  left: 5vw !important;
-  margin-right: 10vw;
-  width: 85% !important;
-
-  font-size: 38px;
-}
-
-.about-text-button.a-medias-verdades{
-  position:fixed;
-  width: 100% !important;
-  left: 0;
-  text-align: center;
-  bottom: 15vh !important;
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.a-medias-verdades-1{
-  position: fixed !important;
-  right: 0vw !important;
-  width: 70%;
-  top: 19vh !important;
-
-  font-size: 24px;
-}
-.about-text-paragraph.a-medias-verdades-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
-
-
-  bottom: 32vh !important;
-  margin-right: 10vw !important;
-}
-.about-text-paragraph.a-medias-verdades-3{
-  position: fixed !important;
-  right: 0vw !important;
-  width: 75%;
-
-  bottom: 15vh !important;
-  margin-right: 10vw !important;
-}
 
 
 
-.about-text-header.doscientos{
-  display: block;
-  position: fixed !important;
-  top: 11vh !important;
-  padding-left: 10% !important;
-  padding-right: 10% !important;
-}
-
-.about-text-button.doscientos{
-  position:fixed;
-  width: 100% !important;
-  left: 0;
-  text-align: center;
-  bottom: 15vh !important;
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.doscientos-1{
-  position: fixed !important;
-  left: 5vw !important;
-  width: 33vw;
-  top: 40vh !important;
-
-  font-size: 24px;
-}
-.about-text-paragraph.doscientos-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 25vw;
 
 
-  bottom: 32vh !important;
-  margin-right: 10vw !important;
-}
+
+
+
+
+
+
+
+
 
 
 
@@ -1413,181 +1128,22 @@ FOR TABLETS
 
 
 
-.about-text-header.tentacion{
-  display: block;
-  position: fixed !important;
-  top: 14vh !important;
-  left: 5vw !important;
-  margin-right: 10vw;
-}
-
-.about-text-button.tentacion{
-  position:fixed;
-  top: 18.1vh !important;
-  text-align: right;
-  padding-right: 10vh !important;
-  font-size: 2.5vw !important;
-
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.tentacion-1{
-  position: fixed !important;
-  left: 5vw !important;
-  width: 33vw;
-  top: 36vh !important;
-
-  font-size: 24px;
-  opacity: .9;
-  font-weight: 400;
-}
-.about-text-paragraph.tentacion-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 90%;
-
-
-  bottom: 17vh !important;
-  margin-right: 10vw !important;
-}
 
 
 
-.about-text-header.oasis{
-  display: block;
-  position: fixed !important;
-  top: 10vh !important;
-  left: 5vw !important;
-  margin-right: 10vw;
-  width: 90% !important;
-
-  font-size: 38px;
-
-}
-
-.about-text-button.oasis{
-  position:fixed;
-  top: 18.1vh !important;
-  text-align: right;
-  padding-right: 10vh !important;
-  font-size: 2.5vw !important;
-
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.oasis-1{
-  position: fixed !important;
-  left: 30vw !important;
-  width: 65vw !important;
-  top: 16vh !important;
-  text-align: right;
-
-  font-size: 22px;
-}
-.about-text-paragraph.oasis-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 90%;
-  font-size: 22px;
-
-  bottom: 13vh !important;
-  margin-right: 10vw !important;
-}
-
-
-.about-text-header.a-medias-verdades{
-  display: block;
-  position: fixed !important;
-  top: 10vh !important;
-  left: 5vw !important;
-  margin-right: 0vw;
-  width: 90% !important;
-
-  font-size: 36px;
-
-}
-
-.about-text-button.a-medias-verdades{
-  position:fixed;
-  top: 18.1vh !important;
-  text-align: right;
-  padding-right: 10vh !important;
-  font-size: 2.5vw !important;
-
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.a-medias-verdades-1{
-  position: fixed !important;
-  left: -5 !important;
-  width: 85%;
-  top: 25vh !important;
-
-  font-size: 22px;
-}
-.about-text-paragraph.a-medias-verdades-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 90%;
-
-
-  bottom: 16.5vh !important;
-  margin-right: 10vw !important;
-  font-size: 22px;
-  text-align: left;
-
-}
-.about-text-paragraph.a-medias-verdades-3{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 90%;
-
-  bottom: 11vh !important;
-  margin-right: 10vw !important;
-  font-size: 22px;
-  text-align: left;
-
-}
 
 
 
-.about-text-header.doscientos{
-  display: block;
-  position: fixed !important;
-  top: 14vh !important;
-  padding-left: 10% !important;
-  padding-right: 10% !important;
-}
-
-.about-text-button.doscientos{
-  position:fixed;
-  top: 18.1vh !important;
-  text-align: right;
-  padding-right: 10vh !important;
-  font-size: 2.5vw !important;
-
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.doscientos-1{
-  position: fixed !important;
-  left: 5vw !important;
-  width: 33vw;
-  top: 36vh !important;
-
-  font-size: 24px;
-  opacity: .9;
-  font-weight: 400;
-}
-.about-text-paragraph.doscientos-2{
-  position: fixed !important;
-  right: -5vw !important;
-  width: 90%;
 
 
-  bottom: 14vh !important;
-  margin-right: 10vw !important;
-}
+
+
+
+
+
+
+
+
 
 
 .about-text-header.about-2{
@@ -1709,190 +1265,23 @@ display: none;
 
 
 
-.about-text-header.tentacion{
-  display: block;
-  position: fixed !important;
-  top: 14vh !important;
-  left: 10vw !important;
-  margin-right: 40vw;
-
-  font-size: 24px;
-
-}
-
-.about-text-button.tentacion{
-  position:fixed;
-  top: 11.3vh !important;
-  text-align: right;
-  width: 5% !important;
-  align-items: right;
-  padding-right: 10vw !important;
-  padding-left: 70vw !important;
-  font-size: 18px !important;
-
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.tentacion-1{
-  position: fixed !important;
-  left: 10vw !important;
-  width: 80%;
-  top: 24vh !important;
-
-  font-size: 20px;
-  opacity: .9;
-}
-.about-text-paragraph.tentacion-2{
-  position: fixed !important;
-  left: 10vw !important;
-  width: 80%;
-
-
-  font-size: 20px;
-  bottom: 17vh !important;
-  margin-right: 10vw !important;
-}
-
-
-
-.about-text-header.oasis{
-  display: block;
-  position: fixed !important;
-  top: 13vh !important;
-  left: 10vw !important;
-  width: 80% !important;
-  margin-right: 40vw;
-
-  font-size: 24px;
-
-}
-
-.about-text-button.oasis{
-  position:fixed;
-  top: 14.7vh !important;
-  text-align: right;
-  
-  padding-right: 10vw !important;
-  font-size: 18px !important;
-
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.oasis-1{
-  position: fixed !important;
-  left: 10vw !important;
-  width: 80% !important;
-  top: 20vh !important;
-
-  font-size: 20px;
-}
-.about-text-paragraph.oasis-2{
-  position: fixed !important;
-  left: 10vw !important;
-  width: 80%;
-
-  font-size: 20px;
-  bottom: 17vh !important;
-  margin-right: 10vw !important;
-}
 
 
 
 
-.about-text-header.a-medias-verdades{
-  display: block;
-  position: fixed !important;
-  top: 12vh !important;
-  left: 10vw !important;
-  margin-right: 40vw;
-
-  font-size: 24px;
-
-}
-
-.about-text-button.a-medias-verdades{
-  position:fixed;
-  top: 14.7vh !important;
-  text-align: right;
-  
-  padding-right: 10vw !important;
-  font-size: 18px !important;
-
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.a-medias-verdades-1{
-  position: fixed !important;
-  left: 60vw !important;
-  width: 30%;
-  top: 22vh !important;
-
-  font-size: 20px;
-  opacity: .9;
-}
-.about-text-paragraph.a-medias-verdades-2{
-  position: fixed !important;
-  left: 10vw !important;
-  width: 80%;
 
 
-  font-size: 20px;
-  bottom: 20vh !important;
-  margin-right: 10vw !important;
-  text-align: left;
-}
-.about-text-paragraph.a-medias-verdades-3{
-  position: fixed !important;
-  left: 10vw !important;
-  width: 80%;
 
 
-  font-size: 20px;
-  bottom: 13vh !important;
-  margin-right: 10vw !important;
-  text-align: left;
-}
 
 
-.about-text-header.doscientos{
-  display: block;
-  position: fixed !important;
-  top: 12vh !important;
-  font-size: 32px;
-
-  padding-left: 5%;
-  padding-right: 5%;
-}
-
-.about-text-button.doscientos{
-  position:fixed;
-  top: 14.7vh !important;
-  text-align: right;
-  
-  padding-right: 10vw !important;
-  font-size: 18px !important;
-
-  pointer-events: all !important;
-}
-
-.about-text-paragraph.doscientos-1{
-  position: fixed !important;
-  left: 10vw !important;
-  width: 100%;
-  top: 24vh !important;
-
-  font-size: 20px;
-}
-.about-text-paragraph.doscientos-2{
-  position: fixed !important;
-  left: 10vw !important;
-  width: 80%;
 
 
-  font-size: 20px;
-  bottom: 17vh !important;
-  margin-right: 10vw !important;
-}
+
+
+
+
+
 
 
 
@@ -2062,228 +1451,31 @@ FOR EXTRA SMALL DEVICES
 
 
 
-  .about-text-header.tentacion{
-    display: block;
-    position: fixed !important;
-    top: 13vh !important;
-    left: 10vw !important;
-    margin-right: 40vw;
-  
-    font-size: 18px;
-    width: 50% !important;
-  }
-  
-  .about-text-button.tentacion{
-    position:fixed;
-    top: 6.7vh !important;
-    text-align: right;
-    width: 3% !important;
-    align-items: right;
-    padding-right: 10vw !important;
-    padding-left: 55vw !important;
-    font-size: 12px !important;
-  
-    pointer-events: all !important;
-  }
-  
-  .about-text-paragraph.tentacion-1{
-    position: fixed !important;
-    left: 10vw !important;
-    width: 80%;
-    top: 28vh !important;
-  
-    font-size: 13.5px;
-    height: 145px;
-    }
-
-  .about-text-paragraph.tentacion-2{
-    position: fixed !important;
-    left: 10vw !important;
-    width: 80%;
   
   
-    font-size: 13.5px;
-    bottom: 12vh !important;
-    margin-right: 10vw !important;
-  }
-
-  .youtube-video.tentacion{
-    margin-top: 39% !important;
-    height: 23vh;
-    pointer-events: all !important;
-  }
-
-  #tentacion-slides{
-    margin-top: 21% !important;
-  }
-
-
-  .about-text-header.oasis{
-    display: block;
-    position: fixed !important;
-    top: 15vh !important;
-    left: 10vw !important;
-    margin-right: 40vw;
-    width: 80% !important;
-
-    font-size: 20px;
-  
-  }
-  
-  .about-text-button.oasis{
-    position:fixed;
-    top: 13.7vh !important;
-    text-align: right;
-    
-    padding-right: 10vw !important;
-    font-size: 18px !important;
-  
-    pointer-events: all !important;
-  }
-  
-  .about-text-paragraph.oasis-1{
-    position: fixed !important;
-    left: 10vw !important;
-    width: 80% !important;
-    top: 25vh !important;
-  
-    font-size: 13.5px;
-    opacity: .9;
-  }
-  .about-text-paragraph.oasis-2{
-    position: fixed !important;
-    left: 10vw !important;
-    width: 80%;
-  
-  
-    font-size: 13.5px;
-    bottom: 15vh !important;
-    margin-right: 10vw !important;
-  }
-
-
-  .youtube-video.oasis{
-    margin-top: 8% !important;
-    height: 23vh;
-    pointer-events: all !important;
-  }
 
 
 
 
-  .about-text-header.a-medias-verdades{
-    display: block;
-    position: fixed !important;
-    top: 11.7vh !important;
-    left: 10vw !important;
-    width: 70% !important;
-    margin-right: 40vw;
-  
-    font-size: 16px;
-  
-  }
-  
-  .about-text-button.a-medias-verdades{
-    position:fixed;
-    top: 12.7vh !important;
-    text-align: right;
-    
-    padding-right: 10vw !important;
-    font-size: 18px !important;
-  
-    pointer-events: all !important;
-  }
-  
-  .about-text-paragraph.a-medias-verdades-1{
-    position: fixed !important;
-    left: 10vw !important;
-    width: 80%;
-  
-  
-    font-size: 20px;
-    top: 26vh !important;
-    margin-right: 10vw !important;
-    font-size: 16px;
-    text-align: left !important;
-  }
-  .about-text-paragraph.a-medias-verdades-2{
-    position: fixed !important;
-    left: 10vw !important;
-    width: 80%;
-  
-  
-    font-size: 20px;
-    top: 62vh !important;
-    margin-right: 10vw !important;
-    font-size: 16px;
-    text-align: left !important;
 
-  }
-  .about-text-paragraph.a-medias-verdades-3{
-    display: none;
-    position: fixed !important;
-    left: 10vw !important;
-    width: 80%;
   
-    font-size: 20px;
-    bottom: 7vh !important;
-    margin-right: 10vw !important;
-    font-size: 16px;
-    text-align: left !important;
-
-  }
+  
 
 
-  .wildlife-slides{
-    margin-top: -5.5vh;
-  }
 
 
-  .city-slides{
-    margin-top: -1.5vh;
-  }
 
 
-  .about-text-header.doscientos{
-    display: block;
-    position: fixed !important;
-    top: 12vh !important;
-    padding-right: 10%;
-    padding-left: 10%;
-    text-align: left !important;
-    font-size: 20px;
-  
-  }
-  
-  .about-text-button.doscientos{
-    position:fixed;
-    top: 12.7vh !important;
-    text-align: right;
-    
-    padding-right: 10vw !important;
-    font-size: 18px !important;
-  
-    pointer-events: all !important;
-  }
-  
-  .about-text-paragraph.doscientos-1{
-    position: fixed !important;
-    left: 10vw !important;
-    width: 80% !important;
-    top: 23vh !important;
-  
-    font-size: 16px;
-  }
-  .about-text-paragraph.doscientos-2{
-    position: fixed !important;
-    left: 10vw !important;
-    width: 80%;
   
   
-    font-size: 16px;
-    bottom: 15vh !important;
-    margin-right: 10vw !important;
-  }
+
+
+
+
+
+
+  
+  
 
 
   .about-text-header.about-2{
@@ -2505,4 +1697,268 @@ input{
 	margin-right: 0vh;
 	left: 0vh !important;
 	right: 0vh !important;
+}
+
+/* =========================================================
+   LAYOUT FIXES (responsive sanity pass)
+   ========================================================= */
+
+/* Navigation: logo/credits on the left, links or close button on the right,
+   never colliding even when the credits wrap. */
+.navigation{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+.navigation .logo{
+  min-width: 0;
+}
+.navigation-links{
+  float: none;
+  flex-shrink: 0;
+}
+
+/* Custom cursor makes no sense on touch screens (tablets >= 992px included). */
+@media (hover: none){
+  .cursor,.cursor-two{ display: none !important; }
+}
+
+/* ABOUT: let the content grow and scroll instead of being cut top/bottom. */
+#about{
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+#about .about-text{
+  height: auto;
+  min-height: 100vh;
+  margin: 0;
+  padding: 110px 100px 50px;
+}
+#about .about-img{
+  position: sticky;
+  top: 0;
+}
+#about .social-media-links{
+  position: fixed;
+}
+@media all and (max-width: 991px){
+  #about .about-text{
+    padding: 120px 10vw 90px;
+  }
+}
+
+/* PROJECTS ------------------------------------------------ */
+.project{
+  flex-direction: column;
+}
+.project > [class*="col-"]{
+  flex: none;
+}
+.project .about-text-button{
+  pointer-events: auto !important;
+  margin: 0;
+  padding: 0;
+}
+.project .about-text-button .contact-button{
+  margin: 0;
+}
+
+/* Desktop / landscape: text overlays the media (blend mode as before),
+   laid out on a grid so blocks can never overlap each other. */
+@media all and (min-width: 992px) and (orientation: landscape){
+  .project .about-text{
+    position: fixed;
+    top: 0; right: 0; bottom: 0; left: 0;
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    display: block;
+  }
+  .project .about-text-container{
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-rows: auto 1fr auto;
+    column-gap: 12vw;
+    row-gap: 3vh;
+    padding: max(17vh, 120px) 5vw max(15vh, 110px);
+  }
+  .project .about-text-header{
+    grid-column: 1 / -1;
+    grid-row: 1;
+    padding: 0;
+    font-size: clamp(26px, 4.6vh, 46px);
+    line-height: 1.25;
+  }
+  .project .about-text-paragraph{
+    margin: 0;
+    padding: 0;
+    font-size: clamp(16px, 2.5vh, 24px);
+    line-height: 1.35;
+  }
+  .project .about-text-paragraph[class*="-1"]{
+    grid-column: 1;
+    grid-row: 2;
+    align-self: start;
+  }
+  .project .about-text-paragraph[class*="-2"]{
+    grid-column: 2;
+    grid-row: 2;
+    align-self: end;
+  }
+  .project .about-text-paragraph[class*="-3"]{
+    grid-column: 2;
+    grid-row: 3;
+  }
+  .project .about-text-button{
+    grid-column: 1 / -1;
+    grid-row: 3;
+    justify-self: center;
+    font-size: 24px !important;
+  }
+}
+
+/* Tablet / mobile / portrait: single column that scrolls.
+   Title bites into the top edge of the media and the first paragraph
+   starts over its bottom edge (blend mode, as on desktop); the rest of
+   the long text stays off the media. Gallery arrows sit on its sides. */
+@media all and (max-width: 991px), all and (orientation: portrait){
+  .project{
+    overflow-y: auto !important;
+    overflow-x: hidden;
+    padding-bottom: 40px;
+  }
+  .project [class*="col-"],
+  .project .about-text,
+  .project .about-text-container{
+    display: contents;
+  }
+  .project .navigation-project{
+    position: relative;
+    order: 0;
+    padding: 30px 6vw 10px;
+    font-size: 20px;
+  }
+  .project .navigation-project .logo{
+    padding: 0;
+    margin: 0;
+    font-size: clamp(16px, 4.5vw, 24px);
+    line-height: 1.2;
+  }
+  .project .navigation-project .navigation-links{
+    margin: 0;
+    padding: 4px 0 0;
+  }
+  .project .about-text-header{
+    order: 1;
+    position: relative;
+    z-index: 3;
+    padding: 4vh 6vw 0;
+    margin-bottom: -0.9em;
+    font-size: clamp(18px, 5.2vw, 34px);
+    line-height: 1.3;
+    color: #fff;
+    mix-blend-mode: difference;
+  }
+  .project .about-text-paragraph{
+    padding: 0 6vw 2vh;
+    font-size: clamp(14px, 3.8vw, 20px);
+    line-height: 1.4;
+    opacity: .9;
+  }
+  .project .slideshow-container{
+    order: 2;
+    position: relative;
+    z-index: 1;
+    flex-shrink: 0;
+    width: 88vw;
+    max-width: 88vw;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    margin: 0 auto;
+  }
+  .project .about-text-paragraph[class*="-1"]{
+    order: 4;
+    position: relative;
+    z-index: 3;
+    margin-top: -1.4em;
+    color: #fff;
+    mix-blend-mode: difference;
+  }
+  .project .about-text-header,
+  .project .about-text-paragraph[class*="-1"]{
+    transition: margin .4s ease;
+  }
+  /* YouTube embeds can't be controlled under text: no overlap on them. */
+  .project.media-is-video .about-text-header{
+    margin-bottom: 2vh;
+    mix-blend-mode: normal;
+  }
+  .project.media-is-video .about-text-paragraph[class*="-1"]{
+    margin-top: 2vh;
+    mix-blend-mode: normal;
+  }
+  .project .slideshow-container > div{
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
+  .project .slideshow-container img{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+  }
+  .project .slideshow-container iframe{
+    width: 100%;
+    height: 100%;
+    max-height: none !important;
+    margin: 0;
+  }
+  /* arrows pulled up onto the left/right edges of the media
+     (media height = 88vw * 9/16 = 49.5vw; controls height = 56px) */
+  .project .controls{
+    order: 3;
+    position: relative;
+    bottom: auto !important;
+    z-index: 4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: auto !important;
+    height: 56px;
+    padding: 0 6vw;
+    margin: calc(-24.75vw - 28px) 0 calc(24.75vw - 28px);
+    pointer-events: none;
+  }
+  .project .controls button{
+    margin: 0;
+    padding: 10px;
+    pointer-events: auto;
+  }
+  .project .controls img{
+    filter: drop-shadow(0 0 4px rgba(0,0,0,.8));
+  }
+  .project .about-text-paragraph[class*="-2"]{ order: 5; }
+  .project .about-text-paragraph[class*="-3"]{ order: 6; }
+  .project .about-text-button{
+    order: 7;
+    align-self: center;
+    font-size: 18px !important;
+    margin-top: 1vh;
+  }
+  .project .social-media-links{
+    order: 8;
+    position: static;
+    padding: 2vh 6vw 0;
+  }
+  .project .social-media-links li{
+    padding-left: 0;
+  }
 }
